@@ -39,6 +39,7 @@ public class Useoperators {
 		int age=21;
 		System.out.println(age>=22 && age<=32);
 		System.out.println("==========================");
+		System.out.println("hai");
 	}
 
 }
