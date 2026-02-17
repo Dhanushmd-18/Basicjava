@@ -34,6 +34,29 @@ public class Triangle {
 		}
 		System.out.println("=================");
 		
+		int q=4;
+		 int space=q;
+		 int sta=0;
+		for(int rows=1;rows<=q;rows++)
+		{
+			 space--;
+			 for(int e=1;e<=space;e++)
+				 System.out.print(" ");
+			 sta++;
+			 for(int h=1;h<=sta;h++)
+				 System.out.print("*");
+			 System.out.println();
+			 
+				 
+			 
+			  
+				 
+				 
+			 
+				 
+			
+		}
+		
 	}
 
 }
